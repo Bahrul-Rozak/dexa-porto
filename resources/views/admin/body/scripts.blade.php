@@ -15,3 +15,6 @@
 <script src="{{ asset('backend/vendor/owl-carousel/owl.carousel.js') }}"></script>
 <script src="{{ asset('backend/js/custom.min.js') }}"></script>
 <script src="{{ asset('backend/js/deznav-init.js') }}"></script>
+
+<!-- Toastr -->
+<script src="{{ asset('backend/vendor/toastr/js/toastr.min.js') }}"></script>
