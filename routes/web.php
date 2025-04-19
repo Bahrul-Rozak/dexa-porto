@@ -15,6 +15,10 @@ Route::get('/blog-detail', function () {
     return view('frontend.blog-details');
 });
 
+Route::get('/portfolio-detail', function () {
+    return view('frontend.portfolio-details');
+});
+
 
 Route::get('/dashboard', function () {
     return view('admin.index');
